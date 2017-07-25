@@ -6,3 +6,7 @@
 
 ## Awsome Python Resources
 - https://github.com/vinta/awesome-python - A large Python's library container.
+
+## Data Visualization
+### Articles
+- https://blog.modeanalytics.com/python-data-visualization-libraries - 10 Useful Python Data Visualization Libraries for Any Discipline.
