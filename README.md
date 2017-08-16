@@ -1,5 +1,9 @@
 # python-lib-resource
 
+## String Manipulation
+- https://pypi.python.org/pypi/marisa-trie (with readthedocs) - Static memory-efficient and fast Trie-like structures for Python.
+- http://dawg.readthedocs.io/en/latest - Deterministic acyclic finite state automaton
+
 ## Graph Tools
 - https://networkx.github.io - Software for complex networks.
 - https://graph-tool.skewed.de - An efficient Python module for manipulation and statistical analysis of graphs.
