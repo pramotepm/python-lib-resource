@@ -19,3 +19,6 @@
 - http://geopandas.org - Geospatial with Pandas Data Structure
 ### Articles
 - https://medium.com/@ipat.georobot/geopandas-35d399110935 - GeoPandas and Thailand Map
+
+## Natural Language Processing (NLP)
+- https://github.com/keon/awesome-nlp - Awesome NLP
